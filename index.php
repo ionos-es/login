@@ -8,7 +8,7 @@
         background-color: #f1f1f1;
         margin: 0;
         font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      }
+      } 
 
       .container { margin: 50px auto 40px auto; width: 600px; text-align: center; }
 
